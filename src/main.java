@@ -4,7 +4,7 @@ import java.util.Scanner;
 //commit 3
 //commit 4
 //commit 5
-//commit 6
+
 public class main {
     public static void main(String[] args) {
         Scanner             userInputReader = new Scanner(System.in);
